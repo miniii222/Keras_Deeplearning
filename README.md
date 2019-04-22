@@ -1,6 +1,9 @@
 # Keras_deeplearning
 케라스 창시자에게 배우는 딥러닝
 
+딥러닝을 다시 공부해보려고 한다...
+
+
 # Part1. The Fundamentals of Deep Learning
 ## CH1. What is Deep Learning?
 ## CH2. The Mathematical Blocks of Neural Networks
