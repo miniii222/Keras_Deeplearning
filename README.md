@@ -6,7 +6,7 @@
 
 # Part1. The Fundamentals of Deep Learning
 ## CH1. What is Deep Learning?
-## CH2. The Mathematical Blocks of Neural Networks
+## CH2. The Mathematical Blocks of Neural Networks [link](https://github.com/miniii222/Keras_Deeplearning/tree/master/CH2.Mathematical_neural_net)
 ## CH3. Getting Started with Neural networks
 ## CH4. Fundatmentals of Machine Learning
 
