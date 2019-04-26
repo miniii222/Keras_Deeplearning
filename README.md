@@ -19,6 +19,13 @@
 
 
 ## CH3. Getting Started with Neural networks
+- N개의 클래스로 분류하려면, 마지막 Dense 층은 N
+- 단일 레이블, 다중 분류 문제에서는 N개의 클래스에 대한 확률 분포를 출력하기 위해 `softmax` 함수 사용
+- label -> one-hot encoding : categorical_crossentropy
+- lael -> 정수형 : sparse_categorical_crossentropy
+- 많은 수의 클라스로 분류할 때, 중간층의 크기가 너무 작아 네트워크에 정보의 병목이 생기지 않도록 주의
+
+
 ## CH4. Fundatmentals of Machine Learning
 
 # Part2. Deep Learning in Practice
