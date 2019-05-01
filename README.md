@@ -27,7 +27,7 @@
 - GPU를 써 보니 항상 CPU보다 빠른 것은 아님..ㅎ
 
 
-## CH4. Fundatmentals of Machine Learning
+## CH4. Fundatmentals of Machine Learning [link](https://github.com/miniii222/Keras_Deeplearning/tree/master/CH4.Machine_Learning)
 
 # Part2. Deep Learning in Practice
 ## CH5. Deep learning For Computer Vision
