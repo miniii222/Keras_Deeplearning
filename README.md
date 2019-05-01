@@ -24,6 +24,7 @@
 - label -> one-hot encoding : categorical_crossentropy
 - lael -> 정수형 : sparse_categorical_crossentropy
 - 많은 수의 클라스로 분류할 때, 중간층의 크기가 너무 작아 네트워크에 정보의 병목이 생기지 않도록 주의
+- GPU를 써 보니 항상 CPU보다 빠른 것은 아님..ㅎ
 
 
 ## CH4. Fundatmentals of Machine Learning
