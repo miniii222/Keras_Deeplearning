@@ -1,0 +1,12 @@
+# CNN(Convolutional Neural Network)
+
+## Densely connected Network와의 차이점
+- 완전 연결 층은 전역 패턴을 학습하지만, CNN은 지역 패턴을 하긋ㅂ
+- 이미지일 경우 2D윈도우로 패턴을 찾는다.
+- `Translation Invariant(평행 이동 불변성)` 을 갖는다. 다른 위치에서의 같은 패턴을 인식할 수 있다.
+- `공간적 계층 구조` : 두 번째 합성곱 층은 첫 번째 층의 특성으로 구성된 더 큰 패턴을 학습.
+
+## Filter
+- 하나의 필터가 입력 데이터의 어떤 특성을 인코딩. 해당 이미지가 포함되었는지 아닌지
+
+![image](https://taran0sh.files.wordpress.com/2018/05/1vvvdh-bukfh2pwdd0kpera2x.gif?w=620)
