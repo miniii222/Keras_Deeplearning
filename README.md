@@ -31,6 +31,13 @@
 
 # Part2. Deep Learning in Practice
 ## CH5. Deep learning For Computer Vision
+- CNN은 시각적인 분류 문제를 다루는 최상의 도구
+- CNN은 우리가 보는 세상을 표현하기 위한 패턴의 계층 구조와 개념을 학습
+- 학습된 표현은 쉽게 분석. CNN은 블랙박스가 아님
+- 이미지 분류 문제를 풀기 윟 ㅐ자신만의 CNN을 처음부터 훈련시킬 수 있음
+- 사전 훈련된 CNN을 사용하여 Feature Extraction, Fine Tuning
+- 활성화 히트맵을 포함하여 CNN이 학습한 필터를 시각화
+
 ## CH6. Deep learning For Text and Sequences
 ## CH7. Advanced Deep learning Best Practices
 ## CH8. Generative Deep learning
