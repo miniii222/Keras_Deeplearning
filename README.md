@@ -18,7 +18,7 @@
 - 확률적 : 각 배치 데이터가 무작위로 선택.(mini batch)
 
 
-## CH3. Getting Started with Neural networks
+## CH3. Getting Started with Neural networks [link](https://github.com/miniii222/Keras_Deeplearning/tree/master/CH3.Getting_Started)
 - N개의 클래스로 분류하려면, 마지막 Dense 층은 N
 - 단일 레이블, 다중 분류 문제에서는 N개의 클래스에 대한 확률 분포를 출력하기 위해 `softmax` 함수 사용
 - label -> one-hot encoding : categorical_crossentropy
@@ -30,7 +30,7 @@
 ## CH4. Fundatmentals of Machine Learning [link](https://github.com/miniii222/Keras_Deeplearning/tree/master/CH4.Machine_Learning)
 
 # Part2. Deep Learning in Practice
-## CH5. Deep learning For Computer Vision
+## CH5. Deep learning For Computer Vision [link](https://github.com/miniii222/Keras_Deeplearning/tree/master/CH5.Computer_Vision)
 - CNN은 시각적인 분류 문제를 다루는 최상의 도구
 - CNN은 우리가 보는 세상을 표현하기 위한 패턴의 계층 구조와 개념을 학습
 - 학습된 표현은 쉽게 분석. CNN은 블랙박스가 아님
@@ -38,7 +38,7 @@
 - 사전 훈련된 CNN을 사용하여 Feature Extraction, Fine Tuning
 - 활성화 히트맵을 포함하여 CNN이 학습한 필터를 시각화
 
-## CH6. Deep learning For Text and Sequences
+## CH6. Deep learning For Text and Sequences [link](https://github.com/miniii222/Keras_Deeplearning/tree/master/CH6.Text%2CSequence)
 ## CH7. Advanced Deep learning Best Practices
 ## CH8. Generative Deep learning
 ## CH9. Conclusions
